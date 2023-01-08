@@ -1,0 +1,8 @@
+.comments {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  list-style: none;
+  margin: 2.5rem 0;
+  padding: 0;
+}

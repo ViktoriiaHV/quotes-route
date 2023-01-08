@@ -1,0 +1,11 @@
+.item {
+  margin: 10px 0;
+  color: #1c213a;
+  font-size: 1.25rem;
+  padding-bottom: 0.5rem;
+  border: 1px solid #251749;
+  background-color: antiquewhite;
+  width: 80%;
+  border-radius: 10px;
+  height: 70px;
+}
